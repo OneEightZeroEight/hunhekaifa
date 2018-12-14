@@ -1110,7 +1110,7 @@
     overflow: hidden;
     text-overflow: ellipsis;
     display: -webkit-box;
-    display: box;
+    display: flex;
     -webkit-box-orient: vertical;
   }
   content.feed-list-container .image-margin-right {

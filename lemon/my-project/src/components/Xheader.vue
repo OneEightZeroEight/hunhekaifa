@@ -19,5 +19,5 @@
   </header>
 </template>
 <style scoped>
-@import url("../styles/index.css");
+
 </style>
